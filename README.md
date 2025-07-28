@@ -28,7 +28,7 @@ Ce tableau de bord interactif a été conçu pour analyser les performances comm
 - Données simulées (Excel / CSV)
 
 📩 Pour créer un tableau de bord retail adapté à vos besoins :  
-** Amvoula Naïsia**
+
 Besoin d’un accompagnement personnalisé ?
 Vous êtes une TPE, PME ou une organisation en croissance sans solution RH automatisée ?
 Vous souhaitez créer un tableau de bord adapté à vos besoins, même sans base de données initiale ?
